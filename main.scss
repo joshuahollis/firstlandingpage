@@ -4,6 +4,8 @@
 
 $body-color: {{ site.body_background_color }};
 
+$header-image: "{{ site.cover_image }}";
+
 $accent-color: {{ site.link_color }};
 
 $header-title-color: {{ site.topbar_title_color }};
