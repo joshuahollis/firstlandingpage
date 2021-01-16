@@ -373,19 +373,17 @@ nav > ul li a:active {
 
 .iphoneScreen {
 	width: 349px;
-	#-webkit-clip-path: url(#screenMask);
-	#clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
+	border-radius: 26px;
 }
 
 .videoContainer {
 	width: 349px;
 	height: 755px;
-	#-webkit-clip-path: url(#screenMask);
-	#clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
+	border-radius: 26px;
 }
 
 .videoContainer > video {
@@ -433,8 +431,7 @@ nav > ul li a:active {
 	.iphoneScreen {
 		width: 226px;
 		height: 488px;
-		-webkit-clip-path: url(#screenMask);
-		clip-path: url(#screenMask);
+		border-radius: 26px;
 		margin: 0px;
 		margin-top: 17px;
 	}
