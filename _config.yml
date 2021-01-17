@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Powerful Auto-Correct
     description                           : Makes typing easy and comfortable.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : keyboard
 
   - title                                 : Swipe Typing
     description                           : Type faster than ever.
@@ -48,19 +48,16 @@ features                                  :
 
   - title                                 : Emoji
     description                           : Lots of fun.
-    fontawesome_icon_name                 : thumbs-up
+    fontawesome_icon_name                 : smile
 
   - title                                 : Customizable
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : cog
 
   - title                                 : Social Links
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
 
 # Theme Settings
