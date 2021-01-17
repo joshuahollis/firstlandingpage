@@ -35,7 +35,7 @@ youtube_username                          : flicktype
 features                                  :
 
   - title                                 : Award-winning
-    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“App of the year”, “Makes typing a breeze”, “Astonishingly accurate”</em> - AppAdvice, Forbes, Inside&nbsp;Apple
+    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“App of the year”<br/>“Makes typing a breeze”<br/>“Astonishingly accurate”</em><br/> from AppAdvice, Forbes, Inside&nbsp;Apple & more.
     fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
