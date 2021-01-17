@@ -35,23 +35,23 @@ youtube_username                          : flicktype
 features                                  :
 
   - title                                 : Award-winning
-    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“App of the year”</em> - AppAdvice.<br/><br/>Featured on Forbes, 9to5Mac, iMore, Inside&nbsp;Apple & more.
+    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“App of the year”</em> - AppAdvice<br/><br/>Also featured on Forbes, 9to5Mac, iMore, Inside&nbsp;Apple & many more.
     fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
-    description                           : Makes typing easy and comfortable.
+    description                           : Makes typing easy and surprisingly comfortable.
     fontawesome_icon_name                 : keyboard
 
   - title                                 : Swipe Typing
-    description                           : Type faster than ever!
+    description                           : Type faster than ever, just like your phone!
     fontawesome_icon_name                 : stopwatch
 
   - title                                 : Emoji
-    description                           : Lots of fun😆
+    description                           : Use unlimited combinations of emoji in your messages.
     fontawesome_icon_name                 : smile
 
   - title                                 : Customizable
-    description                           : Personalize, add custom words etc
+    description                           : Shortcuts for your favorite emoji, custom words, and more.
     fontawesome_icon_name                 : cog
 
 
