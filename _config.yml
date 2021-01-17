@@ -35,7 +35,7 @@ youtube_username                          : flicktype
 features                                  :
 
   - title                                 : Award-winning
-    description                           : <em>“Best of 2020”</em> - Apple<br/>“Makes typing a breeze” - Forbes<br/>“Astonishingly accurate” - Inside Apple
+    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“Makes typing a breeze”</em> - Forbes<br/><em>“Astonishingly accurate”</em> - Inside&nbsp;Apple
     fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
@@ -43,20 +43,16 @@ features                                  :
     fontawesome_icon_name                 : keyboard
 
   - title                                 : Swipe Typing
-    description                           : Type faster than ever.
-    fontawesome_icon_name                 : hand-point-up
+    description                           : Type faster than ever!
+    fontawesome_icon_name                 : stopwatch
 
   - title                                 : Emoji
-    description                           : Lots of fun.
+    description                           : Lots of fun😆
     fontawesome_icon_name                 : smile
 
   - title                                 : Customizable
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Personalize, add custom words etc
     fontawesome_icon_name                 : cog
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : thumbs-up
 
 
 
