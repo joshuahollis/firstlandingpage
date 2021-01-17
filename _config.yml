@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
-    description                           : Makes typing easy, and surprisingly comfortable.
+    description                           : Makes typing surprisingly easy & comfortable.
     fontawesome_icon_name                 : keyboard
 
   - title                                 : Swipe Typing
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : smile
 
   - title                                 : Customizable
-    description                           : Favorite emoji shortcuts, custom words, favorite contacts, and more.
+    description                           : Configurable emoji shortcuts, custom dictionary, favorite contacts, and more.
     fontawesome_icon_name                 : cog
 
 
