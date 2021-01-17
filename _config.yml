@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Swipe Typing
     description                           : Type faster than ever, just like you do on your phone!
-    fontawesome_icon_name                 : stopwatch
+    fontawesome_icon_name                 : signature
 
   - title                                 : Emoji
     description                           : Use unlimited combinations of emoji in your messages.
