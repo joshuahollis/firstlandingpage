@@ -34,21 +34,21 @@ youtube_username                          : flicktype
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : “Best of 2020”
-    description                           : Apple
-    fontawesome_icon_name                 : magic
+  - title                                 : Award-winning
+    description                           : “Best of 2020” - Apple<br/><br/>“Makes typing a breeze” - Forbes<br/><br/>“Astonishingly accurate” - Inside Apple
+    fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
     description                           : Makes typing easy and comfortable.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
 
   - title                                 : Swipe Typing
     description                           : Type faster than ever.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : hand-point-up
 
   - title                                 : Emoji
     description                           : Lots of fun.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Customizable
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
