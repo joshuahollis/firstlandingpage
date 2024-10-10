@@ -34,7 +34,6 @@ github_username                           : moves
 features                                  :
 
   - title                                 : Award-winning
-    description                           : <em>“Best of 2020”</em> - Apple<br/><em>“App of the year”</em> - AppAdvice<br/><em>“Works flawlessly”</em> - iMore<br/><em>“Highly effective”</em> - Forbes
     fontawesome_icon_name                 : award
     
   - title                                 : Powerful Auto-Correct
