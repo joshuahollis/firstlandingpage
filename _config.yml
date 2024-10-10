@@ -2,11 +2,11 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1359485719                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1446105608                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://www.flicktype.com/sdk/            # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://www.movesapp.io/sdk            # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -19,15 +19,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Kosta Eleftheriou                               
-your_link                                 : https://www.flicktype.com
-your_city                                 : California&nbsp;☀️                                
-email_address                             : hello@flicktype.com
-facebook_username                         : flicktype
-instagram_username                        : flicktype
-twitter_username                          : flicktype
-github_username                           : flicktype
-youtube_username                          : flicktype
+your_name                                 : Joshua Hollis                               
+your_link                                 : https://www.movesapp.io
+your_city                                 : Boston&nbsp;☀️                                
+email_address                             : hello@movesapp.io
+facebook_username                         : movesapp
+instagram_username                        : moves
+twitter_username                          : movesapp 
+github_username                           : moves
 
 
 
